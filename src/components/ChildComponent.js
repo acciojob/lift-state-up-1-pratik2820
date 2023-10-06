@@ -13,7 +13,7 @@ const ChildComponent = ({showModal,handleClick}) =>{
                 showModal && (
                     <div>
                         <h3>Modal Content</h3>
-                        <p>This is the Modal Content</p>
+                        <p>This is the modal content.</p>
                     </div>
                 )
             }
